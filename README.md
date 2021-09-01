@@ -18,11 +18,11 @@ Você consegue colocar os jobs que fez ou seu salário mensal e colocar o que vo
 
 <h4 align="center"> Tela principal.</h4>
 
-<img src=".github/1.png" alt="tela Principal">
+<img src=".github/1.jpg" alt="tela Principal">
 <br /><br />
 <h4 align="center"> Tela de entrada e saída</h4>
 
-<img src=".github/2" alt="Tela do entrada">
+<img src=".github/2.jpg" alt="Tela do entrada">
 
 <br /><br />
 

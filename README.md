@@ -1,46 +1,75 @@
-# Getting Started with Create React App
+<div align="center">
+  <img src=".github/Logo.png" alt="Let Me Ask logo">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<br />
 
-## Available Scripts
+<h4 align="center">
+  Cm Money é um projeto desenvolvido para que você se organizar com as sua contas e com o que você recebeu.
+ 
+</h4>
 
-In the project directory, you can run:
+<h4 align="center" >
+Você consegue colocar os jobs que fez ou seu salário mensal e colocar o que você gastou e com isso saber o quanto pode ou naõ gastar a mais.
+</h4>
+<br />
+<br />
 
-### `yarn start`
+<h4 align="center"> Tela principal.</h4>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src=".github/1.png" alt="tela Principal">
+<br /><br />
+<h4 align="center"> Tela de entrada e saída</h4>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img src=".github/2" alt="Tela do entrada">
 
-### `yarn test`
+<br /><br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tecnologias usadas nesse projeto.
 
-### `yarn build`
+<br />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [ReactJS](https://reactjs.org/)
+  <br />
+- [Typescript](https://www.typescriptlang.org/)
+  <br />
+- [Axios](https://axios-http.com/)
+  <br />
+- [React-Modal](http://reactcommunity.org/react-modal/)
+  <br />
+- [Styled-Components](https://styled-components.com/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br /><br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Requerimentos para que você veja o projeto.
 
-### `yarn eject`
+<br />
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Você Precisa instalar o [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/) ou pode usar o Npm que já vem quando você instala o Nodejs.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  **Clone o projeto e entre na pasta**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+$ git clone https://github.com/cesar-machado/cm-money.git && cd cm-money
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Siga os passo abaixo para rodar o projeto**
 
-## Learn More
+```bash
+# Instalar dependências
+$ yarn
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#Comece a rodar o projeto
+$ yarn start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+O projeto estará disponível no seu navegador em `http://localhost:3000`
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feito com muito 💜 by César Machado 👋 [Meu LinkedIn](https://www.linkedin.com/in/cesar-mach/)

@@ -6,12 +6,12 @@
 <br />
 
 <h4 align="center">
-  Cm Money é um projeto desenvolvido para que você se organizar com as sua contas e com o que você recebeu.
+  Cm Money é um projeto desenvolvido para que você se organizar com as suas contas e com o que você recebeu.
  
 </h4>
 
 <h4 align="center" >
-Você consegue colocar os jobs que fez ou seu salário mensal e colocar o que você gastou e com isso saber o quanto pode ou naõ gastar a mais.
+Você consegue colocar os jobs que fez ou seu salário mensal, colocar o que você gastou e com isso saber o quanto pode ou não gastar.
 </h4>
 <br />
 <br />

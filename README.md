@@ -54,7 +54,7 @@ Você consegue colocar os jobs que fez ou seu salário mensal, colocar o que voc
 $ git clone https://github.com/cesar-machado/cm-money.git && cd cm-money
 ```
 
-**Siga os passo abaixo para rodar o projeto**
+**Siga os passos abaixo para rodar o projeto**
 
 ```bash
 # Instalar dependências
